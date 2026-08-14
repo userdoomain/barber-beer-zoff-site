@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#0f0e0c"/>
+  <text x="32" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d19a2e" text-anchor="middle">B&amp;B</text>
+  <text x="32" y="54" font-family="Arial, sans-serif" font-size="9" fill="#a49c8f" text-anchor="middle">ZOFF</text>
+</svg>
